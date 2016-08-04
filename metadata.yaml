@@ -1,0 +1,52 @@
+_repo: Wieland--Or-The-Transformation--An-American-Tale_792
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brown, Charles Brockden
+    aliases:
+    - Brown, Brockden
+    - Brown, C. B. (Charles Brockden)
+    - Poplicola
+    birthdate: 1771
+    deathdate: 1810
+    gutenberg_agent_id: '416'
+    url: http://www.gutenberg.org/2009/agents/416
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Brockden_Brown
+description: "Wieland: or, The Transformation: An American Tale, usually simply called\
+  \ Wieland, is the first major work by Charles Brockden Brown. First published in\
+  \ 1798, it distinguishes the true beginning of his career as a writer. Wieland is\
+  \ the first – and most famous – American Gothic novel. It has often been linked\
+  \ to Caleb Williams by William Godwin. Godwin's influence is clear, but Brown's\
+  \ writing is unique in its style. Wieland is often categorized under several subgenres\
+  \ other than gothic fiction, including horror, psychological fiction and epistolary\
+  \ fiction, which are listed at Project Gutenberg.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Gothic Fiction
+gutenberg_issued: '1997-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '792'
+  wikidata: Q7998930
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religious fanaticism -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Radicals -- Fiction'
+- !lcsh 'Combustion, Spontaneous -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Horror tales'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Pennsylvania -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+- !lcsh 'Fathers -- Death -- Fiction'
+- GITenberg
+title: 'Wieland; Or, The Transformation: An American Tale'
+url: http://www.gutenberg.org/ebooks/792
+wikipedia:
+- https://en.wikipedia.org/wiki/Wieland_(novel)
+- https://nl.wikipedia.org/wiki/Wieland
